@@ -1,0 +1,80 @@
+.checkout-container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  
+  .login-form,
+  .coupon-form,
+  .billing-section form {
+    border: 1px solid #ddd;
+    padding: 20px;
+    background: #fff;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group select,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .form-group input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  .order-summary {
+    border: 1px solid #ddd;
+    padding: 20px;
+    background: #fff;
+  }
+  
+  .order-summary h3 {
+    margin-top: 0;
+  }
+  
+  .order-item,
+  .order-summary-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .order-summary-row {
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+  }
+  
+  .payment-option {
+    margin-bottom: 15px;
+  }
+  
+  .payment-option input[type="radio"] {
+    margin-right: 10px;
+  }
+  
+  .paypal-logo,
+  .credit-cards {
+    margin-top: 10px;
+    height: 24px;
+  }
+  
+  .place-order-button {
+    background-color: #28a745;
+  }
+  
+  .place-order-button:hover {
+    background-color: #218838;
+  }
+  
